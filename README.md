@@ -1,6 +1,6 @@
 # Design Harness
 
-Xを見て3時間考えた結果、「全て」を「すべて」にするだけのSkillができました。
+Xを見て3時間考えた結果、「登録済」に「み」をつけるだけのSkillができました。
 
 Xを開く前は何も困ってなかった。
 
@@ -9,9 +9,9 @@ Xを開く前は何も困ってなかった。
 [SKILL.md](./SKILL.md) を `~/.codex/skills/design-harness/SKILL.md` に置いて、Codexの新しいチャットで：
 
 ```text
-$design-harness 全ての変更を保存しました。
+$design-harness 登録済
 ```
 
 ```text
-すべての変更を保存しました。
+登録済み
 ```
